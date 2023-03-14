@@ -4,7 +4,7 @@ services:
 
   app:
     container_name: nest-app
-    image: klerith/flutter-backend-teslo-shop:0.0.3
+    image: klerith/flutter-backend-teslo-shop:0.0.4
     depends_on:
       - db
     ports:
