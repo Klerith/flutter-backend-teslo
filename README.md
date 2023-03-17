@@ -21,3 +21,5 @@ docker compose up -d
 Si desean saber más sobre docker y cómo se construyó esta imagen, esto es parte de mi curso de Nest y Docker:
 
 [Cursos sobre Docker](https://fernando-herrera.com/#/search/docker)
+
+[Imagen en DockerHub](https://hub.docker.com/repository/docker/klerith/flutter-backend-teslo-shop/general)
