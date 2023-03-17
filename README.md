@@ -14,3 +14,10 @@ docker compose up -d
 5. Documentación de los endpoints disponibles:
 
     http://localhost:3000/api
+
+
+
+# Extra
+Si desean saber más sobre docker y cómo se construyó esta imagen, esto es parte de mi curso de Nest y Docker:
+
+[Cursos sobre Docker](https://fernando-herrera.com/#/search/docker)
