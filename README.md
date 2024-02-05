@@ -1,7 +1,7 @@
 # Nest - TesloShop Backend
 
 ## Development
-1. Tener corriendo el servicio de Docker (Docker Desktop o Docker Deamon)
+1. Tener corriendo el servicio de Docker (Docker Desktop o Docker Daemon)
 2. Clonar el archivo __.env.template__ y renombrar la copia a __.env__
 3. Levantar los servicios con el comando
 ```
